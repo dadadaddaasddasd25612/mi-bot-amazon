@@ -1,5 +1,4 @@
 requests
 beautifulsoup4
-anticaptchaofficial
 nest_asyncio
 playwright
